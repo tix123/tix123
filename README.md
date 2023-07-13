@@ -1,6 +1,4 @@
-### Hi there 👋
-Welcome to my GitHub.
-
+### Hi there 👋 Welcome to my GitHub
 My LinkedIn https://www.linkedin.com/in/sean-chen-canada/
 
 My Portfolio https://tix123.github.io/homepage/
