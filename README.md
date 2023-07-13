@@ -1,4 +1,7 @@
 ### Hi there 👋
+Welcome to my GitHub.
+Please Contact me on LinkedIn 
+👉 https://www.linkedin.com/in/sean-chen-canada/
 
 <!--
 **tix123/tix123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
