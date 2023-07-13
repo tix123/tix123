@@ -1,6 +1,8 @@
 ### Hi there 👋
 Welcome to my GitHub.
+
 Please Contact me on LinkedIn 
+
 👉 https://www.linkedin.com/in/sean-chen-canada/
 
 <!--
